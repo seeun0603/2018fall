@@ -1,0 +1,4 @@
+linked list
+back
+stack
+data structure

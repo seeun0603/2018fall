@@ -1,0 +1,3 @@
+preorder>> banana apple orange lemon zoo 
+inorder>> apple banana lemon orange zoo 
+postorder>> apple lemon zoo orange banana 

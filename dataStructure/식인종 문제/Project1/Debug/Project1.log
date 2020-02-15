@@ -1,0 +1,6 @@
+﻿  식인종.c
+c:\users\sec\desktop\자료구조\project1\project1\식인종.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\sec\desktop\자료구조\project1\project1\식인종.c(37): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\sec\desktop\자료구조\project1\project1\식인종.c(24): warning C4715: 'safety_check': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project1.vcxproj -> C:\Users\SEC\Desktop\자료구조\Project1\Debug\Project1.exe
